@@ -1,0 +1,394 @@
+@media  (max-width: 419px){
+    .log{
+        margin: 0 0.4rem;
+    }
+    .dropdown-item,.footer-middle{
+        text-align: center;
+    }
+    .container-ferst,.container-second,.container-third{
+        flex-direction: column; 
+        text-align: center;
+    }
+    .container-fourth{  
+        flex-direction: column; 
+    }
+    .text-block, .img-block-second, .text-block-second,.text-block-therd{
+        display: inline-block;
+        margin: 0 0.4rem; 
+    }
+    .img-block{
+        margin-top: 1rem;
+        margin-left: -4.5rem;
+        display: inline-block;
+    }  
+    .img-block-there{
+        display: inline-block;
+        margin-top: 53px;
+    }
+    .maps{
+        width: 350px;
+        margin-top: 50px;
+    } 
+    .learn-more{
+        margin-right: 1px;
+    }
+    .phone7{
+        margin-left: -60px;
+        margin-top: 10px;
+    }
+    .forma{
+        margin-left: -24px;
+    }
+    .bts-logo{
+        margin-left: 64px;
+    }
+   .smart_contract{
+        margin-left: 53px;
+   }
+   .phone{
+        margin-right: -26px;
+   }
+   .phone2{
+       margin-right: -28px;
+   }
+}
+@media all and (min-width: 420px) and (max-width: 620px){
+    .text-block, .img-block , .text-block-second{
+        display: inline-block;
+    }
+    .container-ferst,.container-second,.container-third{
+        flex-direction: column;
+        text-align: center;
+    }
+    .container-fourth{
+        flex-direction: column; 
+    }
+    .log{
+        margin: 0 0.4rem;
+    }
+     .dropdown-item, .footer-middle{
+        text-align: center;
+    }
+    .text-block,.img-block-second,.text-block-second,.text-block-therd{
+        display: inline-block;
+        margin: 0 0.4rem; 
+    }
+    .img-block-therd{
+        margin-top: 53px;
+        display: inline-block;
+    }
+    .img-block{
+        margin-top: 1rem;
+        margin-left: -3.2rem;
+        display: inline-block;
+    }
+    .maps{
+        width: 350px;
+        margin-top: 50px;
+    }  
+    .smart_contract{
+        margin-left: 15px;
+       }
+    .phone3{
+        margin-right: 9px;
+    }
+    .bts-logo{
+        margin-left: 50px;
+    }
+    .phone7{
+        margin-top: 15px;
+        margin-right: 69px;
+    }
+}
+@media all and (max-width: 620px){ 
+    .log{
+        margin: 0 0.4rem;
+    }
+    .container-ferst,.container-third{
+        flex-direction: column;
+    }
+    .text-block, .img-block-second, .text-block-second{
+        display: inline-block;
+        margin: 0 0.4rem;
+    }
+    .img-block-therd{
+        display: inline-block;
+        margin-top: 53px;
+    }
+    .img-block{
+        margin-top: 1rem;
+        display: inline-block;
+    }
+}
+@media all and (min-width: 620px) and (max-width: 819px){
+    .log{
+        margin: 0 0.4rem;
+    }
+    .dropdown-item,.footer-middle{
+        text-align: center;
+    }
+    .container-ferst,.container-second,.container-third{
+        flex-direction: column;
+        text-align: center;
+    }
+    .container-fourth{
+        flex-direction: column; 
+    }
+    .text-block, .img-block-second, .text-block-second{
+        display: inline-block;
+        margin: 0 0.4rem;
+    }
+    .img-block-therd{
+        margin-top: 53px;
+        display: inline-block;
+    }
+    .img-block{
+        margin-top: 1rem;
+        margin-left: -3.2rem; 
+        display: inline-block;   
+    }
+    .maps{
+        width: 440px;
+        margin-top: 50px;
+    }
+    .phone7{
+        margin-left: -50px;
+    }
+    .phone4{
+        margin-left: -24px;
+    }
+    .bts-logo{
+        margin-left: 14px;
+    }
+    .smart_contract{
+        margin-left: 42px;
+    }
+}
+@media all and (min-width: 820px) and (max-width: 991px){ 
+    .log{
+        margin: 0 0.4rem;
+    }
+    .dropdown-item{
+        text-align: center;
+    }
+    .text-block ,.text-block-second,.text-block-therd{
+        margin-left: 30px;
+        margin-right: -15px;
+    } 
+    .antminer{
+        margin-top: -40px;
+    }
+    .antminer-block,.bitmain{
+        margin-left: 89px;
+        margin-top: 20px;
+    }
+    .batton-accordion{
+        margin-left: 173px;
+    }
+    .bts-logo{
+        margin-left: 95px;
+    }
+     .learn-more{
+         margin-left: 200px;
+    } 
+    .phone2{
+        margin-top: 80px;
+        margin-right: -50px;
+    }
+    .phone3{
+        margin-right: -23px;
+    }   
+    .phone4{
+        
+        margin-right: -25px;
+    }
+    .maps{
+        width: 450px;
+        margin-top: 50px;
+    }
+    .smart_contract{
+        margin-left: 73px;
+      }
+    .sloi{
+        margin-left: 179px;
+    }
+    .phone{
+        margin-right: -46px;
+    }
+    .phone7{
+        margin-right: -25px;
+    }
+}
+@media all and (min-width: 992px){
+    .navbar-nav{
+        padding-left:280px;
+    } 
+    .log,.text-block,.text-block-second,.text-block-therd{
+        margin: 0 1.0rem;
+    }
+    .antminer{
+        margin-left: 75px;
+        margin-top: -40px;
+    }
+    .antminer-block,.bitmain{
+        margin-left: 120px;
+    }
+     .batton-accordion{
+        margin-left: 173px;
+    } 
+    .bts-logo{
+        margin-left: 174px;
+    }
+     .learn-more{
+        margin-left: 200px;
+    } 
+    .phone2{
+        margin-top: 80px;
+    }
+    .phone3{
+        margin-left: 52px;
+    }  
+    .phone4{
+        margin-left: 47px;
+    } 
+    .maps{
+        width: 539px;
+        margin-top: 50px;
+    }
+    .smart_contract{
+        margin-left: 120px;
+      }
+    .sloi{
+        margin-left: 207px;
+    }
+}
+@media all and (min-width: 1033px){
+    .navbar-nav{
+        padding-left:300px;
+    } 
+    .antminer{
+        margin-left: 75px;
+        margin-top: -40px;
+    }
+    .antminer-block,.bitmain{
+        margin-left: 151px;
+    }
+    .batton-accordion{
+        margin-left: 173px;
+    }
+    .bts-logo{
+        margin-left: 174px;
+    }
+    .learn-more{
+        margin-left: 200px;
+    }
+    .phone2{
+        margin-top: 80px;
+    }
+    .phone3{
+        margin-left: 51px;
+    } 
+    .phone4{
+        margin-top: -16px;
+        margin-left: 47px;
+    }  
+    .maps{
+        width: 539px;
+        margin-top: 50px;
+    }
+    .smart_contract{
+        margin-left: 138px;
+      }
+    .sloi{
+          margin-left: 207px;
+      }
+    .phone7{
+          margin-left: 35px;
+      }
+}
+@media all and (min-width: 1123px){
+    .navbar-nav{
+        padding-left:310px;
+    } 
+    .img-block {
+        margin-right: -60px;
+    }
+    .text-block {
+        margin-top: 60px;
+        margin-left: 60px;
+        margin-right: 20px;
+    }
+    .antminer{
+        margin-left: 75px;
+        margin-top: -40px;
+    }
+    .antminer-block,.bitmain{
+        margin-left: 120px;
+    }
+    .batton-accordion{
+        margin-left: 173px;
+    }
+    .bts-logo{
+        margin-top: 164px;
+        margin-left: 174px;
+    }
+    .learn-more{
+        margin-left:200px;
+    }
+    .phone2{
+        margin-top: 80px;
+        margin-right: 10px;
+    }
+    .phone4{
+        margin-top: 142px;
+        margin-left: 47px;
+    }
+    .maps{
+        width: 539px;
+        margin-top: 50px;
+    }
+    .smart_contract{
+      margin-left: 130px;
+    }
+    .phone3{
+        margin-left: 52px;
+    }    
+    .img-block-second{
+        margin-right: 20px;
+    }
+    .img-block-therd{
+        margin-top: 53px;
+    }
+    .text-block-second{
+        margin-left: 60px;
+    }
+    .text-block-therd{
+        margin-left: 60px;
+        margin-right: 20px;
+        margin-top: 148px;
+        margin-right: -37px;
+    }
+    .forma{
+        margin-top: 230px;
+        margin-right: -49px;
+    }
+    .sloi{
+        margin-left: 210px;
+        margin-top: 16px;
+    }
+    .text-ferst{
+        margin-bottom: 130px;
+    }
+    .container-third{
+        margin-top: -37px;
+    }
+    .col-md-3, .col-sm-6 {
+        max-width: 134px;
+        margin-left: 123px;
+    }
+}
+
+    
+
+
+

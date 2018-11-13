@@ -1,0 +1,285 @@
+@font-face {
+    font-family: Dosis;
+	src: url(../fonts/dosis.ttf);
+}
+
+body{
+    margin: 0 auto;
+    padding: 0;
+    font-family: Dosis; /*Helvetica, sans-serif;*/ 
+}
+
+header{
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+.log{
+    max-width: 140px;
+    float: left;
+}
+/* меню */
+.navbar{
+    margin: 0 auto;
+    padding: 0;
+    color: #A6A6A6;
+    padding-top: 15px;
+}
+
+.navbar-collapse{
+    background-color: white;
+    text-align: center;
+}
+
+.dropdown-menu{
+    border: 1px white;
+    padding:0;
+}
+
+.form-inline{
+    display: inline;
+}
+/*  */
+/* кнопка get starter */
+.btn{
+    padding: 4px 25px 4px 25px;
+    margin-left: 20px;
+}
+
+.btn-outline-success{
+    background-color:rgb(20, 182, 241);
+    border-color:rgb(20, 182, 241);
+    color:white;
+    font-size: 10px;
+    border-radius: 100rem;
+}
+
+.btn-outline-success:hover{
+    background-color: rgba(29, 106, 207, 0.979);
+    border-color:rgba(29, 106, 207, 0.979); 
+    opacity: 1;
+}
+/*  */
+.phone, .phone2, .phone3,.phone4,.phone7{
+    max-width: 440px;
+}
+
+.text,.text-ferst{
+    font-weight: bold;
+    color: #666666;
+    font-size: 18px;
+}
+
+h1{
+    font-size: 52px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.apple_and_android{
+    max-width: 18px;
+    margin-right: 15px;
+}
+/* .icon{
+    margin-left: 30px;
+} */
+input{
+    margin-top: 25px;
+    margin-bottom: 50px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid #A6A6A6;
+    color: #A6A6A6;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+.container-ferst{
+    position: relative;
+    max-width: 86rem;
+    margin: 0 auto;
+    padding-right: 0;
+    padding-top: 5.25rem;
+    min-height: 0;
+    display: flex;
+    max-width: 1000px;
+}
+
+.container-second{
+    position: relative;
+    max-width: 86rem;
+    margin: 0 auto;
+    padding-right: 0;
+    padding-top: 10.25rem;
+    min-height: 0;
+    display: flex;
+    max-width: 1000px;
+}
+.container-third{
+    position: relative;
+    max-width: 86rem;
+    margin: 0 auto;
+    padding-right: 0;
+    min-height: 0;
+    display: flex;
+    max-width: 1000px;
+}
+
+.container-fourth{
+    position: relative;
+    max-width: 86rem;
+    margin: 0 auto;
+    padding-right: 0;
+    padding-top: 1.25rem;
+    min-height: 0;
+    max-width: 1000px;
+}
+/*  */
+.antminer-block{
+    color: #666666;
+    font-weight: bold;
+}
+
+.bitmain{
+    width: 210px;
+}
+
+.learn-more,.get-started{
+    display: block; 
+    color: #555555; 
+    margin-top: 140px;
+    font-size: 16px; 
+    font-weight: bold;
+}
+
+.batton-accordion,.batton-accordion-get-started{
+    width: 120px;  
+    margin-top: -12px;
+    margin-bottom: 30px;
+}
+
+.antminer{
+    width: 330px;
+}
+/*  */
+.learn-more-button{
+    margin-top: -90px;
+}
+
+.smart_contract{
+    width: 240px;
+    margin-top: 70px;
+}
+
+.bts-logo{
+    width: 250px;    
+}
+
+.sophon{
+    width: 200px;
+}
+
+.sloi{
+    width: 200px;
+}
+
+.forma{
+    width: 453px;
+}
+
+.img-icon{
+    width: 94px;
+    height: 94px;
+}
+
+.img-bloсk-therd{
+    text-align: center;
+    margin-left: 51px;
+    height: 110px;
+    vertical-align: top;
+    width: 113px;
+    display: inline-block;
+    margin-top: 53px;
+}
+
+p{
+    color: #555555;
+}
+
+.get-started-button{
+    text-align: center;
+}
+/*  */
+h6{
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+}
+footer{
+    color: white;
+}
+
+footer a{
+    color: #7F7F7F;
+    font-weight: bold;
+}
+
+footer a:hover{
+    color: white;
+}
+
+.footer-bottom{
+    background: #EBEBEB;
+    padding: 2em;  
+}
+
+.footer-top{
+    background: #EBEBEB;  
+}
+
+.footer-middle{
+    background: #EBEBEB;
+    padding-top: 4em;
+    color: black;
+}
+  /**Sub Navigation**/
+.subnavigation-container{
+    background: #EBEBEB;
+}
+  
+.subnavigation .nav-link{
+    color: white;
+    font-weight: bold;
+}
+
+.subnavigation-container{
+    text-align: center;
+}
+
+.subnavigation-container .navbar{
+    display: inline-block;
+    margin-bottom: -6px; /* Inline-block margin offffset HACK -Gilron */
+}
+
+.col-subnav a{
+    padding: 1rem 1rem;
+    color: white;
+    font-weight: bold;
+}
+
+.col-subnav .active{
+    border-top:5px solid orange;
+    background: white;
+    color: black;
+}
+
+.text-footer{
+    color: #7F7F7F;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+}
+
+  
+  
