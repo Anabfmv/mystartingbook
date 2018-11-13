@@ -153,6 +153,7 @@
     }
     .phone7{
         margin-left: -50px;
+        margin-top: 10px;
     }
     .phone4{
         margin-left: -24px;
@@ -217,6 +218,7 @@
     }
     .phone7{
         margin-right: -25px;
+        margin-top: 10px;
     }
 }
 @media all and (min-width: 992px){
@@ -305,6 +307,9 @@
     .phone7{
           margin-left: 35px;
       }
+      .phone6{
+        margin-left: 50px;
+    }
 }
 @media all and (min-width: 1123px){
     .navbar-nav{
@@ -330,7 +335,7 @@
     }
     .bts-logo{
         margin-top: 164px;
-        margin-left: 174px;
+        margin-left: 225px;
     }
     .learn-more{
         margin-left:200px;
@@ -341,17 +346,17 @@
     }
     .phone4{
         margin-top: 142px;
-        margin-left: 47px;
+        margin-left: 105px;
     }
     .maps{
         width: 539px;
         margin-top: 50px;
     }
     .smart_contract{
-      margin-left: 130px;
+      margin-left: 139px;
     }
     .phone3{
-        margin-left: 52px;
+        margin-left: 111px;
     }    
     .img-block-second{
         margin-right: 20px;
@@ -385,6 +390,12 @@
     .col-md-3, .col-sm-6 {
         max-width: 134px;
         margin-left: 123px;
+    }
+    .phone6{
+        margin-left: 50px;
+    }
+    .phone7{
+        margin-right: -56px;
     }
 }
 
